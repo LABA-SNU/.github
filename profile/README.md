@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs/PlantLeaf_intro.png" width="600"/>
+  <img src="./imgs/laba_main.png" width="3200"/>
 </p>
 
 <!--
