@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs/laba_main.png" width="3200"/>
+  <img src="./laba_main.png" width="3200"/>
 </p>
 
 <!--
